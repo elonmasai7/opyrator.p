@@ -115,9 +115,6 @@ docker run -p 8080:8080 mltooling/opyrator-playground:latest
 
 <img style="width: 100%" src="https://raw.githubusercontent.com/ml-tooling/opyrator/main/docs/images/text-generation-demo.png"/>
 
-- 📄&nbsp; [Source Code](https://github.com/ml-tooling/opyrator/blob/main/examples/generate_text/app.py)
-- 🌅&nbsp; [UI Demo](https://play.mltooling.com/opyrator/demos/generate_text_ui/)
-- 🔌&nbsp; [OpenAPI Spec](https://editor.swagger.io/?url=https://raw.githubusercontent.com/ml-tooling/opyrator/main/docs/openapi-demo-specs/generate-text-openapi-spec.json)
 
 <details>
 <summary>Run this demo on your machine (click to expand...)</summary>
@@ -389,8 +386,7 @@ _WIP_
 
 ## Contribution
 
-- Pull requests are encouraged and always welcome. Read our [contribution guidelines](https://github.com/elonmasai7/opyrator.py/blob/main/.github/CODE_OF_CONDUCT.md.md) and check out [help-wanted](https://github.com/ml-tooling/opyrator/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3A"help+wanted"+sort%3Areactions-%2B1-desc+) issues.
-- Submit Github issues for any [feature request and enhancement](https://github.com/ml-tooling/opyrator/issues/new?assignees=&labels=feature&template=02_feature-request.md&title=), [bugs](https://github.com/ml-tooling/opyrator/issues/new?assignees=&labels=bug&template=01_bug-report.md&title=), or [documentation](https://github.com/ml-tooling/opyrator/issues/new?assignees=&labels=documentation&template=03_documentation.md&title=) problems.
+- Pull requests are encouraged and always welcome. Read our [contribution guidelines](https://github.com/elonmasai7/opyrator.py/blob/main/.github/CODE_OF_CONDUCT.md.md) and check out 
 - By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/elonmasai7/opyrator.p/blob/main/.github/CODE_OF_CONDUCT.md).
 - The [development section](#development) below contains information on how to build and test the project after you have implemented some changes.
 
