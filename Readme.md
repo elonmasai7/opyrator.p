@@ -16,8 +16,7 @@
   <a href="#getting-started">Getting Started</a> •
   <a href="#features">Features</a> •
   <a href="#examples">Examples</a> •
-  <a href="#support--feedback">Support</a> •
- <a href="#contribution">Contribution</a> •
+  
 
 </p>
 
