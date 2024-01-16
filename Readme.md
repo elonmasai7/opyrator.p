@@ -10,11 +10,7 @@
 <p align="center">
     <a href="https://pypi.org/project/opyrator/" title="PyPi Version"><img src="https://img.shields.io/pypi/v/opyrator?color=green&style=flat"></a>
     <a href="https://pypi.org/project/opyrator/" title="Python Version"><img src="https://img.shields.io/badge/Python-3.6%2B-blue&style=flat"></a>
-    <a href="https://github.com/ml-tooling/opyrator/blob/main/LICENSE" title="Project License"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
-    <a href="https://github.com/ml-tooling/opyrator/actions?query=workflow%3Abuild-pipeline" title="Build status"><img src="https://img.shields.io/github/workflow/status/ml-tooling/opyrator/build-pipeline?style=flat"></a>
-    <a href="ttps://mltooling.substack.com/subscribe" title="Subscribe to newsletter"><img src="http://bit.ly/2Md9rxM"></a>
-    <a href="https://twitter.com/mltooling" title="Follow on Twitter"><img src="https://img.shields.io/twitter/follow/mltooling.svg?style=social&label=Follow"></a>
-</p>
+  
 
 <p align="center">
   <a href="#getting-started">Getting Started</a> •
